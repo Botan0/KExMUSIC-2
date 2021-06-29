@@ -1,7 +1,7 @@
 module.exports = {
     name: "filter",
     cooldown: 3,
-    description: 'songs filters',
+    description: '',
     aliases: ["f"],
     run: async function(client, message, args, user) {
         try {
