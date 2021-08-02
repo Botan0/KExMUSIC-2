@@ -41,7 +41,7 @@ module.exports = {
 
 ## 🌀 Support
 
-Make sure if have any problem in this bot soo fell free to join [Developer Support](https://discord.gg/H6B3RhATMU)
+Make sure if have any problem in this bot soo fell free to join [FamilyKurd](https://discord.gg/yqQYeWHQvK)
 
 ## ✨ Mad By
 
