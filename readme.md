@@ -45,4 +45,4 @@ Make sure if have any problem in this bot soo fell free to join [Developer Suppo
 
 ## ✨ Mad By
 
-`@ニロ#3121`
+`!   FK ° 𝖬𝗋.𝖱𝖾𝖪𝗈 ニロ#0523`
