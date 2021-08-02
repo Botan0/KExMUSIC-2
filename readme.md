@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://media.discordapp.net/attachments/837692611590094868/871551889878179860/20210525_161151.jpg"></h1>
 
-<h1 align="center"> rexom 🎶</h1>
+<h1 align="center"> Music 🎶</h1>
 
-> Play your favorite playlist with rexom 🎶
+> Play your favorite playlist with Music 🎶
 
 
 ## 📜 Requirements.
